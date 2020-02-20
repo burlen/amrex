@@ -118,7 +118,7 @@ def CreateCoProcessor():
       mesh_0000Display.GlyphTableIndexArray = 'None'
       mesh_0000Display.DataAxesGrid = 'GridAxesRepresentation'
       mesh_0000Display.PolarAxes = 'PolarAxesRepresentation'
-      mesh_0000Display.ScalarOpacityUnitDistance = 0.057873097067582834
+      #mesh_0000Display.ScalarOpacityUnitDistance = 0.057873097067582834
 
       # show data from contour1
       contour1Display = Show(contour1, renderView1)
